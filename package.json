@@ -1,0 +1,24 @@
+{
+  "name": "myweatherapp",
+  "version": "1.0.0",
+  "description": "This json file is used to house some of the libraries and frameworks need for my weatherApp.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terminatorles/myWeatherApp.git"
+  },
+  "author": "Lesedi Mokou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terminatorles/myWeatherApp/issues"
+  },
+  "homepage": "https://github.com/Terminatorles/myWeatherApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
